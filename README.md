@@ -1,3 +1,3 @@
 # edwardmanapov.github.io
-Personal Website | Porfolio Website template
+Personal Website | Porfolio
 https://edwardmanapov.github.io/
